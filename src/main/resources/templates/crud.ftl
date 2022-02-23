@@ -72,7 +72,7 @@
                 </tr>
             </thead>
             <tbody>
-                <#list listaCidades as cidade >
+                <#list listaCidades as cidade>
                     <tr>
                         <td>${cidade.nome}</td>
                         <td>${cidade.estado}</td>
